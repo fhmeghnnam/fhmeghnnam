@@ -1,5 +1,14 @@
 
    ![Github stats](https://github-readme-stats.vercel.app/api?username=fhmeghnnam&theme=highcontrast&show_icons=true&count_private=true)
+   
+   
+   const FhmeGhnnam = {
+   name : "Fhme",
+   Age : "16",
+   location : "palastine",
+  Languages : ["C" , "JavaScripts"]
+};
+
 
 <!--
 **fhmeghnnam/fhmeghnnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
