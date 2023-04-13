@@ -2,9 +2,9 @@
    ![Github stats](https://github-readme-stats.vercel.app/api?username=fhmeghnnam&theme=highcontrast&show_icons=true&count_private=true)
    
    ```js
-   const FhmeGhnnam = {
+   const Fhme = {
    name : "Fhme",
-   Age : "18",
+   Age : "19",
    location : "palastine",
   Languages : ["C" , "JavaScripts"]
 };
