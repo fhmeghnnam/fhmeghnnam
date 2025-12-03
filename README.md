@@ -5,7 +5,6 @@
    const Fhme = {
    name : "Fhme",
    Age : "19",
-   location : "palastine",
   Languages : ["C" , "JavaScripts"]
 };
 ```
